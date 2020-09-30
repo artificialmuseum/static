@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "static files for ar.thesystem.at",
   "scripts": {
-    "dev": "http-server ./docs --port 8002 --cors"
+    "dev": "grundstein-server --dir ./docs --port 8002"
   },
   "private": true,
   "repository": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/thesystemcollective/static.thesystem.at#readme",
   "devDependencies": {
-    "http-server": "0.12.3"
+    "@grundstein/gss": "github:grundstein/gss"
   },
   "contributors": [
     {
