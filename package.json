@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "static files for ar.thesystem.at",
   "scripts": {
-    "dev": "grundstein-server --dir ./docs --port 8002"
+    "dev": "grundstein-server --dir ./docs --port 8002 --cors '*'"
   },
   "private": true,
   "repository": {
