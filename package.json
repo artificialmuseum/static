@@ -22,6 +22,7 @@
     "@grundstein/gss": "github:grundstein/gss",
     "@magic/fs": "0.0.8",
     "node-zopfli-es": "1.0.7",
+    "optipng": "2.2.0",
     "sharp": "0.26.2"
   },
   "contributors": [
