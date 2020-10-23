@@ -4,8 +4,7 @@
   "description": "static files for ar.thesystem.at",
   "scripts": {
     "dev": "grundstein-server --dir ./docs --port 8002 --cors '*'",
-    "optimize": "bin/optimize.mjs",
-    "compress": "npm run optimize && bin/compress.mjs"
+    "optimize": "prepare-static-files"
   },
   "private": true,
   "repository": {
@@ -23,6 +22,7 @@
     "@magic/fs": "0.0.8",
     "node-zopfli-es": "1.0.7",
     "optipng": "2.2.0",
+    "prepare-static-files": "github:thesystemcollective/prepare-static-files",
     "sharp": "0.26.2"
   },
   "contributors": [
