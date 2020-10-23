@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "static files for ar.thesystem.at",
   "scripts": {
-    "dev": "grundstein-server --dir ./docs --port 8002 --cors '*'"
+    "dev": "grundstein-server --dir ./docs --port 8002 --cors '*'",
+    "optimize": "bin/optimize.mjs",
+    "compress": "npm run optimize && bin/compress.mjs"
   },
   "private": true,
   "repository": {
@@ -17,7 +19,10 @@
   },
   "homepage": "https://github.com/thesystemcollective/static.thesystem.at#readme",
   "devDependencies": {
-    "@grundstein/gss": "github:grundstein/gss"
+    "@grundstein/gss": "github:grundstein/gss",
+    "@magic/fs": "0.0.8",
+    "node-zopfli-es": "1.0.7",
+    "sharp": "0.26.2"
   },
   "contributors": [
     {
