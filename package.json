@@ -4,7 +4,7 @@
   "description": "static files for ar.thesystem.at",
   "scripts": {
     "dev": "grundstein-server --dir ./docs --port 8002 --cors '*'",
-    "optimize": "prepare-static-files"
+    "build": "prepare-static-files"
   },
   "private": true,
   "repository": {
