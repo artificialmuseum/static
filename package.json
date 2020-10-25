@@ -20,9 +20,9 @@
   "devDependencies": {
     "@grundstein/gss": "github:grundstein/gss",
     "@magic/fs": "0.0.8",
+    "@thesystemcollective/prepare-static-files": "github:thesystemcollective/prepare-static-files",
     "node-zopfli-es": "1.0.7",
     "optipng": "2.2.0",
-    "prepare-static-files": "github:thesystemcollective/prepare-static-files",
     "sharp": "0.26.2"
   },
   "contributors": [
