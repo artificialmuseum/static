@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/thesystemcollective/static.thesystem.at/issues"
   },
-  "homepage": "https://github.com/thesystemcollective/static.thesystem.at#readme",
+  "homepage": "https://github.com/thesystemcollective/static.thesystem.at",
   "devDependencies": {
     "@grundstein/gss": "github:grundstein/gss",
     "@grundstein/prepare-static-files": "github:grundstein/prepare-static-files",
@@ -36,3 +36,4 @@
     }
   ]
 }
+
