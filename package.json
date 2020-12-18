@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "static files for ar.thesystem.at",
   "scripts": {
-    "dev": "node_modules/@grundstein/gss/src/bin.mjs --dir ./docs --port 8002 --cors '*'",
-    "build": "node_modules/@grundstein/prepare-static-files/src/bin.mjs --dirs ./docs"
+    "dev": "node node_modules/@grundstein/gss/src/bin.mjs --dir ./docs --port 8002 --cors '*'",
+    "build": "node node_modules/@grundstein/prepare-static-files/src/bin.mjs --dirs ./docs"
   },
   "private": true,
   "repository": {
@@ -36,4 +36,3 @@
     }
   ]
 }
-
