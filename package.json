@@ -22,8 +22,8 @@
     "@grundstein/prepare-static-files": "github:grundstein/prepare-static-files",
     "@magic/fs": "0.0.9",
     "node-zopfli-es": "1.0.7",
-    "optipng": "2.2.0",
-    "sharp": "0.26.2"
+    "optipng": "3.0.0",
+    "sharp": "0.27.0"
   },
   "contributors": [
     {
