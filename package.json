@@ -1,7 +1,7 @@
 {
-  "name": "static.thesystem.at",
+  "name": "static.artificialmuseum.com",
   "version": "0.0.1",
-  "description": "static files for ar.thesystem.at",
+  "description": "static files for artificialmuseum.com",
   "scripts": {
     "dev": "node node_modules/@grundstein/gss/src/bin.mjs --dir ./docs --port 8002 --cors '*'",
     "build": "node node_modules/@grundstein/prepare-static-files/src/bin.mjs --dirs ./docs"
@@ -9,14 +9,14 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thesystemcollective/static.thesystem.at.git"
+    "url": "git+https://github.com/artificialmuseum/static.artificialmuseum.com.git"
   },
   "author": "TheSystemCollective",
   "license": "APGL-3.0",
   "bugs": {
-    "url": "https://github.com/thesystemcollective/static.thesystem.at/issues"
+    "url": "https://github.com/artificialmuseum/static.artificialmuseum.com/issues"
   },
-  "homepage": "https://github.com/thesystemcollective/static.thesystem.at",
+  "homepage": "https://github.com/artificialmuseum/static.artificialmuseum.com",
   "devDependencies": {
     "@grundstein/gss": "github:grundstein/gss",
     "@grundstein/prepare-static-files": "github:grundstein/prepare-static-files",
