@@ -23,7 +23,7 @@
     "@magic/fs": "0.0.10",
     "node-zopfli-es": "1.0.7",
     "optipng": "3.0.0",
-    "sharp": "0.27.0"
+    "sharp": "0.27.1"
   },
   "contributors": [
     {
