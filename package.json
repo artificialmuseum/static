@@ -7,6 +7,7 @@
     "build": "node node_modules/@grundstein/prepare-static-files/src/bin.mjs --dirs ./docs"
   },
   "private": true,
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/artificialmuseum/static.artificialmuseum.com.git"
