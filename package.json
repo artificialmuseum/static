@@ -4,7 +4,8 @@
   "description": "static files for artificialmuseum.com",
   "scripts": {
     "dev": "node node_modules/@grundstein/gss/src/bin.mjs --dir ./docs --port 8002 --cors '*'",
-    "build": "node node_modules/@grundstein/prepare-static-files/src/bin.mjs --dirs ./docs"
+    "build": "node node_modules/@grundstein/prepare-static-files/src/bin.mjs --dirs ./docs",
+    "latk": "node src/convert.js"
   },
   "private": true,
   "type": "module",
@@ -19,12 +20,13 @@
   },
   "homepage": "https://github.com/artificialmuseum/static.artificialmuseum.com",
   "devDependencies": {
-    "@grundstein/gss": "github:grundstein/gss",
-    "@grundstein/prepare-static-files": "github:grundstein/prepare-static-files",
-    "@magic/fs": "0.0.10",
+    "@grundstein/gss": "0.0.4",
+    "@grundstein/prepare-static-files": "0.0.2",
+    "@magic/fs": "0.0.17",
+    "@magic/types": "0.1.16",
     "node-zopfli-es": "1.0.7",
     "optipng": "3.0.0",
-    "sharp": "0.27.1"
+    "sharp": "0.29.1"
   },
   "contributors": [
     {
