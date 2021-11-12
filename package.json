@@ -25,8 +25,8 @@
     "@magic/fs": "0.0.17",
     "@magic/types": "0.1.16",
     "node-zopfli-es": "1.0.7",
-    "optipng": "3.0.0",
-    "sharp": "0.29.1"
+    "optipng": "^0.2.1",
+    "sharp": "0.29.2"
   },
   "contributors": [
     {
