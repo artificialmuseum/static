@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/artificialmuseum/static.artificialmuseum.com",
   "devDependencies": {
-    "@grundstein/gss": "0.0.5",
-    "@grundstein/prepare-static-files": "0.0.2"
+    "@grundstein/gss": "0.0.13",
+    "@grundstein/prepare-static-files": "0.0.8"
   },
   "contributors": [
     {
