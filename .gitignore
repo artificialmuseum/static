@@ -1,3 +1,4 @@
 node_modules
 docs/**/sources
 .DS_Store
+sources
