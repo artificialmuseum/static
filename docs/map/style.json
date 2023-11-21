@@ -340,7 +340,7 @@
           ]
         ],
         "text-font": [
-          "Inter Italic"
+          "Noto Sans Regular"
         ],
         "text-max-angle": 30,
         "text-offset": [
@@ -6308,7 +6308,7 @@
           ]
         ],
         "text-font": [
-          "Inter Bold"
+          "Noto Sans Medium"
         ],
         "text-letter-spacing": 0.01,
         "text-max-angle": 30,
@@ -6479,7 +6479,7 @@
           ]
         ],
         "text-font": [
-          "Inter Italic"
+          "Noto Sans Regular"
         ],
         "text-max-angle": 30,
         "text-pitch-alignment": "viewport",
@@ -6577,7 +6577,7 @@
           ]
         ],
         "text-font": [
-          "Inter Italic"
+          "Noto Sans Regular"
         ],
         "text-offset": [
           "literal",
@@ -6691,7 +6691,7 @@
           ]
         ],
         "text-font": [
-          "Inter Italic"
+          "Noto Sans Regular"
         ],
         "text-letter-spacing": [
           "match",
@@ -6829,7 +6829,7 @@
           ]
         ],
         "text-font": [
-          "Inter Italic"
+          "Noto Sans Regular"
         ],
         "text-letter-spacing": [
           "match",
@@ -6980,7 +6980,7 @@
           ]
         ],
         "text-font": [
-          "Inter Italic"
+          "Noto Sans Regular"
         ],
         "text-offset": [
           0,
@@ -7023,7 +7023,7 @@
           "top"
         ],
         "text-font": [
-          "Inter Italic"
+          "Noto Sans Regular"
         ],
         "text-justify": [
           "match",
@@ -7153,7 +7153,7 @@
           ]
         ],
         "text-font": [
-          "Inter Italic"
+          "Noto Sans Regular"
         ],
         "text-letter-spacing": 0.01,
         "text-line-height": 1.1,
@@ -7252,14 +7252,14 @@
           [
             "literal",
             [
-              "Inter Regular"
+              "Noto Sans Regular"
             ]
           ],
           6,
           [
             "literal",
             [
-              "Inter Bold"
+              "Noto Sans Medium"
             ]
           ]
         ],
@@ -7346,7 +7346,7 @@
           ]
         ],
         "text-font": [
-          "Inter Bold"
+          "Noto Sans Medium"
         ],
         "text-justify": "auto",
         "text-max-width": 7,
@@ -7481,14 +7481,14 @@
           [
             "literal",
             [
-              "Inter Regular"
+              "Noto Sans Regular"
             ]
           ],
           6,
           [
             "literal",
             [
-              "Inter Bold"
+              "Noto Sans Medium"
             ]
           ]
         ],
@@ -7696,14 +7696,14 @@
           [
             "literal",
             [
-              "Inter Regular"
+              "Noto Sans Regular"
             ]
           ],
           6,
           [
             "literal",
             [
-              "Inter Bold"
+              "Noto Sans Medium"
             ]
           ]
         ],
@@ -7825,7 +7825,7 @@
           ]
         ],
         "text-font": [
-          "Inter Regular"
+          "Noto Sans Regular"
         ],
         "text-letter-spacing": 0.01,
         "text-max-width": 6,
@@ -7900,14 +7900,14 @@
           [
             "literal",
             [
-              "Inter Regular"
+              "Noto Sans Regular"
             ]
           ],
           2,
           [
             "literal",
             [
-              "Inter Bold"
+              "Noto Sans Medium"
             ]
           ]
         ],
