@@ -229,7 +229,7 @@
         ]
       },
       "paint": {
-        "line-color": "hsl(0, 0%, 0%)",
+        "line-color": "hsl(0, 0%, 40%)",
         "line-opacity": [
           "interpolate",
           [
@@ -364,7 +364,7 @@
       },
       "paint": {
         "text-color": "hsl(0, 0%, 100%)",
-        "text-halo-color": "hsl(0, 0%, 0%)",
+        "text-halo-color": "hsl(0, 0%, 40%)",
         "text-halo-width": 2
       }
     },
@@ -375,7 +375,7 @@
       "source-layer": "water",
       "layout": {},
       "paint": {
-        "fill-color": "hsl(0, 0%, 0%)"
+        "fill-color": "hsl(0, 0%, 40%)"
       }
     },
     {
@@ -613,9 +613,9 @@
             "zoom"
           ],
           13,
-          "hsl(0, 0%, 60%)",
+          "hsl(0, 0%, 40%)",
           15,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-width": 0.5
       }
@@ -2513,7 +2513,7 @@
           ],
           "hsl(0, 0%, 100%)",
           17,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-gap-width": [
           "interpolate",
@@ -2636,7 +2636,7 @@
           ],
           "hsl(0, 0%, 100%)",
           17,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-gap-width": [
           "interpolate",
@@ -2759,7 +2759,7 @@
           ],
           "hsl(0, 0%, 100%)",
           17,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-gap-width": [
           "interpolate",
@@ -2872,7 +2872,7 @@
           ],
           "hsl(0, 0%, 100%)",
           17,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-gap-width": [
           "interpolate",
@@ -3035,7 +3035,7 @@
           ],
           "hsl(0, 0%, 100%)",
           17,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-gap-width": [
           "interpolate",
@@ -3242,7 +3242,7 @@
           [
             "zoom"
           ],
-          "hsl(0, 0%, 0%)",
+          "hsl(0, 0%, 40%)",
           17,
           "hsl(0, 0%, 100%)"
         ],
@@ -3343,7 +3343,7 @@
           ],
           "hsl(0, 0%, 92%)",
           14.5,
-          "hsl(0, 0%, 0%)",
+          "hsl(0, 0%, 40%)",
           17,
           "hsl(0, 0%, 100%)"
         ],
@@ -3575,11 +3575,11 @@
               "class"
             ],
             "primary",
-            "hsl(0, 0%, 0%)",
+            "hsl(0, 0%, 40%)",
             "hsl(0, 0%, 93%)"
           ],
           12,
-          "hsl(0, 0%, 0%)",
+          "hsl(0, 0%, 40%)",
           17,
           "hsl(0, 0%, 100%)"
         ],
@@ -3757,7 +3757,7 @@
               "motorway",
               "trunk"
             ],
-            "hsl(0, 0%, 0%)",
+            "hsl(0, 0%, 40%)",
             "hsl(0, 0%, 93%)"
           ],
           17,
@@ -4320,7 +4320,7 @@
           ],
           "hsl(0, 0%, 100%)",
           17,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-gap-width": [
           "interpolate",
@@ -4428,7 +4428,7 @@
           ],
           "hsl(0, 0%, 100%)",
           17,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-gap-width": [
           "interpolate",
@@ -4517,7 +4517,7 @@
           ],
           "hsl(0, 0%, 100%)",
           17,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-gap-width": [
           "interpolate",
@@ -4621,7 +4621,7 @@
           ],
           "hsl(0, 0%, 100%)",
           17,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-gap-width": [
           "interpolate",
@@ -4716,7 +4716,7 @@
           ],
           "hsl(0, 0%, 100%)",
           17,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-gap-width": [
           "interpolate",
@@ -4905,7 +4905,7 @@
           [
             "zoom"
           ],
-          "hsl(0, 0%, 0%)",
+          "hsl(0, 0%, 40%)",
           17,
           "hsl(0, 0%, 100%)"
         ],
@@ -4983,7 +4983,7 @@
           ],
           "hsl(0, 0%, 93%)",
           14.5,
-          "hsl(0, 0%, 0%)",
+          "hsl(0, 0%, 40%)",
           17,
           "hsl(0, 0%, 100%)"
         ],
@@ -5147,7 +5147,7 @@
           [
             "zoom"
           ],
-          "hsl(0, 0%, 0%)",
+          "hsl(0, 0%, 40%)",
           17,
           "hsl(0, 0%, 100%)"
         ],
@@ -5239,7 +5239,7 @@
           [
             "zoom"
           ],
-          "hsl(0, 0%, 0%)",
+          "hsl(0, 0%, 40%)",
           17,
           "hsl(0, 0%, 100%)"
         ],
@@ -5322,7 +5322,7 @@
           ],
           "hsl(0, 0%, 100%)",
           17,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-gap-width": [
           "interpolate",
@@ -5417,7 +5417,7 @@
           ],
           "hsl(0, 0%, 100%)",
           17,
-          "hsl(0, 0%, 0%)"
+          "hsl(0, 0%, 40%)"
         ],
         "line-gap-width": [
           "interpolate",
@@ -5521,7 +5521,7 @@
           [
             "zoom"
           ],
-          "hsl(0, 0%, 0%)",
+          "hsl(0, 0%, 40%)",
           17,
           "hsl(0, 0%, 100%)"
         ],
@@ -5613,7 +5613,7 @@
           [
             "zoom"
           ],
-          "hsl(0, 0%, 0%)",
+          "hsl(0, 0%, 40%)",
           17,
           "hsl(0, 0%, 100%)"
         ],
@@ -5928,7 +5928,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "hsl(0, 0%, 0%)",
+        "line-color": "hsl(0, 0%, 40%)",
         "line-dasharray": [
           "step",
           [
@@ -6156,7 +6156,7 @@
         "line-join": "round"
       },
       "paint": {
-        "line-color": "hsl(0, 0%, 0%)",
+        "line-color": "hsl(0, 0%, 40%)",
         "line-dasharray": [
           "step",
           [
@@ -6409,7 +6409,7 @@
         ]
       },
       "paint": {
-        "text-color": "hsl(0, 0%, 0%)",
+        "text-color": "hsl(0, 0%, 40%)",
         "text-halo-color": [
           "match",
           [
@@ -6642,7 +6642,7 @@
             1
           ]
         ],
-        "text-color": "hsl(0, 0%, 0%)",
+        "text-color": "hsl(0, 0%, 40%)",
         "text-halo-color": "hsl(0, 0%, 100%)",
         "text-halo-width": 2
       }
@@ -6753,7 +6753,7 @@
       },
       "paint": {
         "text-color": "hsl(0, 0%, 100%)",
-        "text-halo-color": "hsl(0, 0%, 0%)",
+        "text-halo-color": "hsl(0, 0%, 40%)",
         "text-halo-width": 2
       }
     },
@@ -6921,7 +6921,7 @@
           "hsl(0, 0%, 100%)",
           "hsl(0, 0%, 100%)"
         ],
-        "text-halo-color": "hsl(0, 0%, 0%)",
+        "text-halo-color": "hsl(0, 0%, 40%)",
         "text-halo-width": 2
       }
     },
@@ -7053,7 +7053,7 @@
         "text-size": 13.2
       },
       "paint": {
-        "text-color": "hsl(0, 0%, 0%)",
+        "text-color": "hsl(0, 0%, 40%)",
         "text-halo-blur": 0.5,
         "text-halo-color": "hsl(0, 0%, 100%)",
         "text-halo-width": 0.5
@@ -7178,7 +7178,7 @@
         ]
       },
       "paint": {
-        "text-color": "hsl(0, 0%, 0%)",
+        "text-color": "hsl(0, 0%, 40%)",
         "text-halo-color": "hsl(0, 0%, 100%)",
         "text-halo-width": 1.5,
         "text-opacity": [
@@ -7321,7 +7321,7 @@
         ]
       },
       "paint": {
-        "text-color": "hsl(0, 0%, 0%)",
+        "text-color": "hsl(0, 0%, 40%)",
         "text-halo-blur": 1,
         "text-halo-color": "hsl(0, 0%, 100%)",
         "text-halo-width": 2.5
@@ -7358,7 +7358,7 @@
         "text-size": 18
       },
       "paint": {
-        "text-color": "hsl(0, 0%, 0%)",
+        "text-color": "hsl(0, 0%, 40%)",
         "text-halo-blur": 1,
         "text-halo-color": "hsl(0, 0%, 100%)",
         "text-halo-width": 2.5
@@ -7554,7 +7554,7 @@
         ]
       },
       "paint": {
-        "text-color": "hsl(0, 0%, 0%)",
+        "text-color": "hsl(0, 0%, 40%)",
         "text-halo-blur": 1,
         "text-halo-color": "hsl(0, 0%, 100%)",
         "text-halo-width": 2.5
@@ -7786,7 +7786,7 @@
         ]
       },
       "paint": {
-        "text-color": "hsl(0, 0%, 0%)",
+        "text-color": "hsl(0, 0%, 40%)",
         "text-halo-blur": 1,
         "text-halo-color": "hsl(0, 0%, 100%)",
         "text-halo-width": 2.5
@@ -7846,7 +7846,7 @@
         ]
       },
       "paint": {
-        "text-color": "hsl(0, 0%, 0%)",
+        "text-color": "hsl(0, 0%, 40%)",
         "text-halo-color": "hsl(0, 0%, 100%)",
         "text-halo-width": 1,
         "text-opacity": [
@@ -7984,7 +7984,7 @@
           7,
           0
         ],
-        "text-color": "hsl(0, 0%, 0%)",
+        "text-color": "hsl(0, 0%, 40%)",
         "text-halo-color": "hsl(0, 0%, 100%)",
         "text-halo-width": 2
       }
@@ -7995,12 +7995,12 @@
     "stamen-omt": {
       "type": "vector",
       "scheme": "xyz",
-      "url": "https://tiles.stadiamaps.com/data/stamen-omt.json"
+      "url": "http://localhost:8002/map/stamen-omt.json"
     },
     "stamen_null": {
       "type": "vector",
       "scheme": "xyz",
-      "url": "https://tiles.stadiamaps.com/data/stamen_null.json"
+      "url": "http://localhost:8002/map/stamen_null.json"
     }
   },
   "sprite": "https://tiles.stadiamaps.com/styles/stamen-toner/sprite",
