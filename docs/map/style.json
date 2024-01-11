@@ -7995,12 +7995,12 @@
     "stamen-omt": {
       "type": "vector",
       "scheme": "xyz",
-      "url": "http://static.artificialmuseum.com/map/stamen-omt.json"
+      "url": "https://static.artificialmuseum.com/map/stamen-omt.json"
     },
     "stamen_null": {
       "type": "vector",
       "scheme": "xyz",
-      "url": "http://static.artificialmuseum.com/map/stamen_null.json"
+      "url": "https://static.artificialmuseum.com/map/stamen_null.json"
     }
   },
   "sprite": "https://tiles.stadiamaps.com/styles/stamen-toner/sprite",
