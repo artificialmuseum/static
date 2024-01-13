@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 58 58">
-  <path d="M29 58c16 0 29-13 29-29S45 0 29 0 0 13 0 29s13 29 29 29z"/>
-  <path fill="#fff" d="M39.4 16.5v4h3.3v17.1h-3.3v4h7.1v-25h-7.1z"/>
-  <path fill="#fff" d="M11.5 16.5v25h7.1v-4h-3.3v-17h3.3v-4h-7.1z"/>
-  <path fill="#fff" transform="translate(16 16)" d="M9.5 19.4l4.4-10H8.4V6.6h9.3v2.1l-4.5 10.8H9.5z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="58" height="58"><defs><clipPath id="b"><use xlink:href="#a"/></clipPath><path id="a" d="M0 0h27v23H0V0Z"/></defs><path fill="none" d="M58 0v58H0V0h58Z"/><path fill-rule="evenodd" d="M29 58c16.016 0 29-12.984 29-29S45.016 0 29 0 0 12.984 0 29s12.984 29 29 29Z"/><path fill="#FFF" fill-rule="evenodd" d="M39.857 16v3.971h3.336V37.03h-3.336V41H47V16h-7.143ZM12 16v25h7.143v-3.971h-3.336V19.97h3.336V16H12Z"/><g clip-path="url(#b)" transform="translate(16 16)"><path fill="#FFF" d="m10.35 19.242 4.824-10.566H8.838V6.39h9.216V8.1l-4.86 11.142H10.35Z"/></g></svg>
